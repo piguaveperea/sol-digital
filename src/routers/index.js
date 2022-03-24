@@ -1,0 +1,1 @@
+exports.pageRoute = require('./pageRouter')
